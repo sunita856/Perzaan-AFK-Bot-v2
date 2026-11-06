@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EndgameSmPP.aternos.me,
+    "ip": "EndgameSmPP.aternos.me",
     "port": 50909,
     "version": "1.21.1"
   },
